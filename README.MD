@@ -1,0 +1,1 @@
+This a hangman terminal game that uses arrays that check for equivalence after a input is given.
